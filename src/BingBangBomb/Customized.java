@@ -10,7 +10,7 @@ import java.awt.event.*;
 import java.awt.*;
 /**
  *
- * @author user
+ * @author Ajayi Solomon
  */
 public class Customized extends JFrame implements  ActionListener{
     BigBangBomb starter;

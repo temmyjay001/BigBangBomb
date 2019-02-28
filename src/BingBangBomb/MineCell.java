@@ -12,7 +12,7 @@ import java.awt.event.*;
 import java.beans.*;
 /**
  *
- * @author user
+ * @author Ajayi Solomon
  */
 public class MineCell extends JPanel{
     private static final String LABEL = "label";

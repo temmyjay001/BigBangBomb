@@ -11,7 +11,7 @@ import javax.swing.*;
 
 /**
  *
- * @author user
+ * @author Ajayi Solomon
  */
 class MineCellGridModel {
     private MineCellModel[][] cellModelGrid;

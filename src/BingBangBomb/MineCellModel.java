@@ -9,7 +9,7 @@ import javax.swing.event.*;
 import java.beans.*;
 /**
  *
- * @author user
+ * @author Ajayi Solomon
  */
 public class MineCellModel {
     public static final String FLAG_CHANGE = "Flag Change";

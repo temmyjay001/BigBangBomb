@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.ArrayList;
 /**
  *
- * @author user
+ * @author Ajayi Solomon
  */
 public class mineCellGrid extends JPanel{
     private MineCellGridModel model;

@@ -10,7 +10,7 @@ import javax.swing.*;
 import java.awt.event.*;
 /**
  *
- * @author user
+ * @author Ajayi Solomon
  */
 public class BigBangBomb {
     private JPanel mainPanel = new JPanel();
